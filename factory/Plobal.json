@@ -1,0 +1,9 @@
+{
+	"name": "Plobal",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18060c53-57c0-4600-a95c-de60c062e8c6",
+		"tenantId": "5cdc5b43-d7be-4caa-8173-729e3b0a62d9"
+	}
+}
